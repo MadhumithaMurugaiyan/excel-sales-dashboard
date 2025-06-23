@@ -5,7 +5,7 @@ This project demonstrates a sales dashboard created using Excel, analyzing regio
 
 ## 📁 Files Included
 - sales_data_sample.xlsx – Sample dataset
-- dashboard_screenshot.png – Snapshot of the dashboard (optional)
+- dashboard_screenshot.png – Snapshot of the dashboard
 
 ## 🛠 Tools Used
 - Microsoft Excel
